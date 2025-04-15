@@ -1,4 +1,4 @@
-# Linktree Clone (MERN Stack)
+# Linktree (MERN Stack)
 
 A fully functional **Linktree clone** built using the **MERN (MongoDB, Express.js, React.js, Node.js)** stack. This application allows users to create and share customizable landing pages with multiple links, track click analytics, and personalize their profiles.
 
